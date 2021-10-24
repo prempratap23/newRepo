@@ -1,0 +1,3 @@
+include ':locationtrack'
+rootProject.name='SplaceActivity'
+include ':app'
